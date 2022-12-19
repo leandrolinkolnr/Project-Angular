@@ -24,6 +24,11 @@
       "id": 13,
       "name": "Camisa futebol",
       "price": 139
+    },
+    {
+      "name": "Teste",
+      "price": 1.58,
+      "id": 14
     }
   ]
 }
