@@ -11,8 +11,8 @@ import { Product } from '../product.model';
 export class ProductCreateComponent implements OnInit {
 
   product: Product = {
-    name: 'Teste',
-    price: 1.58
+    name: '',
+    price: 0
   }
 
   constructor(private productService: ProductService,
@@ -24,7 +24,8 @@ export class ProductCreateComponent implements OnInit {
   createdProduct(): void {
     this.productService.create(this.product).subscribe(()=> {
       this.productService.showMessage('Produto criado!')
-      this.router.navigate(['/products'])
+      this.router.navigate(['/products'])  
+            // quando cadastrar, retorna para pagina produtos
     })
 
     
