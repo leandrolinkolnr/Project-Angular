@@ -39,6 +39,11 @@
       "name": "teste",
       "price": "11",
       "id": 16
+    },
+    {
+      "name": "camisa",
+      "price": "13",
+      "id": 17
     }
   ]
 }
