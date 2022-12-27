@@ -5,4 +5,14 @@ button {
 
 table {
     width: 100%;
+    /* background-color: aliceblue; */
+}
+
+.edit{
+    color:#d9cd26;
+    margin-right: 13px;
+}
+
+.delete {
+    color: #e35e6b
 }

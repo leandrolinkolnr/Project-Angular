@@ -44,6 +44,26 @@
       "name": "camisa treze",
       "price": "123",
       "id": 17
+    },
+    {
+      "name": "Galo",
+      "price": "13",
+      "id": 18
+    },
+    {
+      "name": "reterttr",
+      "price": "03",
+      "id": 19
+    },
+    {
+      "name": "Teste",
+      "price": "124",
+      "id": 20
+    },
+    {
+      "name": "rett",
+      "price": "0124",
+      "id": 21
     }
   ]
 }
