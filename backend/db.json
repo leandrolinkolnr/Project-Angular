@@ -12,33 +12,13 @@
     },
     {
       "name": "Lapis Preto Básico",
-      "price": "1.50",
+      "price": "1.55",
       "id": 4
     },
     {
-      "id": 13,
-      "name": "Camisa futebol",
-      "price": 139
-    },
-    {
-      "name": "teste",
-      "price": "11",
-      "id": 16
-    },
-    {
       "name": "camisa treze",
-      "price": "123",
+      "price": "1232",
       "id": 17
-    },
-    {
-      "name": "Galo",
-      "price": "13",
-      "id": 18
-    },
-    {
-      "name": "Teste",
-      "price": "124",
-      "id": 20
     },
     {
       "name": "Treze",
